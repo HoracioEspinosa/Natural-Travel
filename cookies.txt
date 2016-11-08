@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wedesignthemes.com	TRUE	/themes/trendy-travel/	FALSE	1999999999	yith_wcwl_products	%5B%7B%22prod_id%22%3A%22564%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%7D%2C%7B%22prod_id%22%3A%22685%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%7D%2C%7B%22prod_id%22%3A%22729%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%7D%2C%7B%22prod_id%22%3A%22677%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%7D%2C%7B%22prod_id%22%3A%22727%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%7D%2C%7B%22prod_id%22%3A%22726%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%7D%2C%7B%22prod_id%22%3A%22562%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%7D%2C%7B%22prod_id%22%3A%22679%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%7D%2C%7B%22prod_id%22%3A%22730%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%7D%2C%7B%22prod_id%22%3A%22728%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%7D%5D
+wedesignthemes.com	TRUE	/themes/trendy-travel/	FALSE	1999999999	woocommerce_recently_viewed	730%7C729%7C728%7C727%7C726%7C564%7C685%7C677%7C562%7C679
+wedesignthemes.com	TRUE	/themes/trendy-travel/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+wedesignthemes.com	TRUE	/themes/trendy-travel/	FALSE	1999999999	woocommerce_items_in_cart	1
+wedesignthemes.com	TRUE	/themes/trendy-travel/	FALSE	1999999999	woocommerce_cart_hash	ba6af62303e16337182e1668057bc0cf
+wedesignthemes.com	TRUE	/themes/trendy-travel/	FALSE	1999999999	wp_woocommerce_session_8c8db12215b7d95510018d987a13751e	91207b30aad5bfb2a29db4a4a009e70d%7C%7C1476565684%7C%7C1476562084%7C%7Ce1939ea495d793e973146ea49287fc8f
+
