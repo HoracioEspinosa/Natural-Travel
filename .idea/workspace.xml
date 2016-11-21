@@ -27,9 +27,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo.nrgthemes.com/projects/travel/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25160">
-              <caret line="1480" column="23" selection-start-line="1480" selection-start-column="23" selection-end-line="1480" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="9">
+              <caret line="807" column="26" selection-start-line="807" selection-start-column="26" selection-end-line="807" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#78345#78351#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -222,12 +227,12 @@
       <option name="presentableId" value="Default" />
       <updated>1479744382433</updated>
       <workItem from="1479744383621" duration="8980000" />
-      <workItem from="1479757094039" duration="1480000" />
+      <workItem from="1479757094039" duration="3757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10460000" />
+    <option name="totallyTimeSpent" value="12737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -272,7 +277,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1377">
           <caret line="81" column="139" selection-start-line="81" selection-start-column="139" selection-end-line="81" selection-end-column="139" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#78345#78351#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -301,16 +311,21 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo.nrgthemes.com/projects/travel/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25160">
-          <caret line="1480" column="23" selection-start-line="1480" selection-start-column="23" selection-end-line="1480" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="9">
+          <caret line="807" column="26" selection-start-line="807" selection-start-column="26" selection-end-line="807" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#78345#78351#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
