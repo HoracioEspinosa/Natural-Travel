@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="688b47c9-7377-4ec2-ac20-a2b184485c0c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo.nrgthemes.com/projects/travel/index.html" afterPath="$PROJECT_DIR$/demo.nrgthemes.com/projects/travel/index.html" />
-    </list>
+    <list default="true" id="688b47c9-7377-4ec2-ac20-a2b184485c0c" name="Default" comment="" />
     <ignored path="Natural-Travel.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -27,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo.nrgthemes.com/projects/travel/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9">
-              <caret line="807" column="26" selection-start-line="807" selection-start-column="26" selection-end-line="807" selection-end-column="26" />
+            <state relative-caret-position="230">
+              <caret line="820" column="56" selection-start-line="820" selection-start-column="56" selection-end-line="820" selection-end-column="56" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -227,12 +224,12 @@
       <option name="presentableId" value="Default" />
       <updated>1479744382433</updated>
       <workItem from="1479744383621" duration="8980000" />
-      <workItem from="1479757094039" duration="3757000" />
+      <workItem from="1479757094039" duration="4455000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12737000" />
+    <option name="totallyTimeSpent" value="13435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -318,8 +315,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo.nrgthemes.com/projects/travel/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="807" column="26" selection-start-line="807" selection-start-column="26" selection-end-line="807" selection-end-column="26" />
+        <state relative-caret-position="230">
+          <caret line="820" column="56" selection-start-line="820" selection-start-column="56" selection-end-line="820" selection-end-column="56" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
